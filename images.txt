@@ -1,2 +1,2 @@
-redis:alpine
+redis:6-alpine
 
