@@ -1,2 +1,2 @@
-redis:6-alpine
+idootop/mi-gpt:latest
 
