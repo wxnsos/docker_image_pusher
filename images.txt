@@ -1,2 +1,2 @@
-idootop/mi-gpt:latest
+yidadaa/chatgpt-next-web
 
