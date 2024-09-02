@@ -1,2 +1,2 @@
-yidadaa/chatgpt-next-web
+mi-gpt:latest
 
