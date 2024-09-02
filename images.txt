@@ -1,2 +1,2 @@
-mi-gpt:latest
+idootop/mi-gpt:latest
 
