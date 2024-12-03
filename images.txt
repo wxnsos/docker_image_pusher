@@ -1,2 +1,2 @@
-idootop/mi-gpt:latest
+langgenius/dify-api:0.12.1
 
